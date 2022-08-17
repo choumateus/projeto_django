@@ -6,4 +6,4 @@ def index (response):
     return HttpResponse("<h1>Mat Chou monster</h1>")
 
 def v1(response):
-    return HttpResponse("<h1>NATH LINDA</h1>")
+    return HttpResponse(r'<h1 style="color:red;">NATH LINDA</h1>')

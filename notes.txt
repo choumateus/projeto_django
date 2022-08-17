@@ -1,0 +1,5 @@
+main is the application.
+first path from the site and the second from the application
+models -> database module
+settings -> 'main.apps.MainConfig',
+migrate is similar to version control, we make a change and apply then
